@@ -1,10 +1,17 @@
 
+
 # Data Analytics Portfolio
 This is the portfolio of all class assignments I have completed in Data Analytics. 
 
 ## My Résumé
 - [Résumé](https://drive.google.com/file/d/1mfGwgXfwIb6Xq7owmqG7F68XEF6bAC7L/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/niberkypietrera/)
+
+## About My Self
+👀 I’m interested in marketing and data analytics.
+🌱 I’m currently learning python and SQL.
+💞️ I’m currently on the last semester of the MBA program at Southern Utah University.
+📫 [How to reach me](https://www.linkedin.com/in/niberkypietrera/)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
