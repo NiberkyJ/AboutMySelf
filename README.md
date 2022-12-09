@@ -11,7 +11,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 👀 I’m interested in marketing and data analytics.
 🌱 I’m currently learning python and SQL.
 💞️ I’m currently on the last semester of the MBA program at Southern Utah University.
-📫 [How to reach me](https://www.linkedin.com/in/niberkypietrera/)
+📫 [How to reach me](mailto:npietrera@gmail.com)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
