@@ -4,6 +4,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 
 ## My Résumé
 - [Résumé](https://drive.google.com/file/d/1mfGwgXfwIb6Xq7owmqG7F68XEF6bAC7L/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/niberkypietrera/)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
